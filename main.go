@@ -178,8 +178,6 @@ func setupSDL() {
 	surface, err = window.GetSurface()
 	check(err)
 
-	// audio
-
 	audioSpec := sdl.AudioSpec{
 		Freq:     sampleHz,
 		Format:   sdl.AUDIO_U8,

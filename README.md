@@ -5,5 +5,5 @@ A simple CHIP-8 emulator/interpreter using sdl.
 
 - tutorial: https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
 - test program: https://github.com/Timendus/chip8-test-suite
-- go-sdl: https://github.com/veandco/go-sdl2
+- go-sdl: https://github.com/veandco/go-sdl2 (Copyright (c) 2013, Go-SDL2 Authors)
 - games: https://johnearnest.github.io/chip8Archive/
