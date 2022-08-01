@@ -1,0 +1,5 @@
+.idea/
+*.txt
+*.ch8
+go.mod
+go.sum
